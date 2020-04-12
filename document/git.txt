@@ -1,0 +1,8 @@
+- git init
+- git remote -v
+- git remote add origin https://github.com/Tan-JavaWeb/shopshoes_SpringBoot.git
+- git remote -v
+- git pull origin master
+- git add .
+- git commit -m "first commit"
+- git push origin master
